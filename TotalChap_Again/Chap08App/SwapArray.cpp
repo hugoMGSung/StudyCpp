@@ -7,11 +7,11 @@ void swaparray(T* a, T* b, int num)
 {
 	void* t;
 
-	t = malloc(num * sizeof(T));
+	t = operator new(num * sizeof(T)); // malloc(num * sizeof(T));
 	memcpy(t, a, num * sizeof(T));
 	memcpy(a, b, num * sizeof(T));
 	memcpy(b, t, num * sizeof(T));
-	free(t);
+	operator delete(t); // free(t);
 }
 
 int main()
