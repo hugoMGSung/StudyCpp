@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{4B8FA25A-E2B8-40A6-88B8-F7740B971A6B}</ProjectGuid>
-    <RootNamespace>Chap05App</RootNamespace>
+    <ProjectGuid>{526FB8CF-D1E1-45D6-82CB-4D321D8C24BF}</ProjectGuid>
+    <RootNamespace>Chap08App</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -141,7 +141,7 @@
     <ClInclude Include="cursor.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TimePlusPlus.cpp" />
+    <ClCompile Include="NestTemplate.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

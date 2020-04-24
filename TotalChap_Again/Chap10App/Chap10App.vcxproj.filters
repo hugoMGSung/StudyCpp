@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TimePlusPlus.cpp">
+    <ClCompile Include="RTTI.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

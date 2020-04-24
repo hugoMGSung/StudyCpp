@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{4B8FA25A-E2B8-40A6-88B8-F7740B971A6B}</ProjectGuid>
-    <RootNamespace>Chap05App</RootNamespace>
+    <ProjectGuid>{FEAAAFA7-8E1C-44B0-ADF7-A4906A410F8B}</ProjectGuid>
+    <RootNamespace>Chap09App</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -141,7 +141,7 @@
     <ClInclude Include="cursor.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TimePlusPlus.cpp" />
+    <ClCompile Include="Exretry.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
