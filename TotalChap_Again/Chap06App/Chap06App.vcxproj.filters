@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NestClass.cpp">
+    <ClCompile Include="Overrides.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

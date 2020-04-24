@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PureVirtual.cpp">
+    <ClCompile Include="Virtual_again04.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
