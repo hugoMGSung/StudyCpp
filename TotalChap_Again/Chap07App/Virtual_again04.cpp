@@ -33,7 +33,6 @@ int main() {
 	Human* pH;
 	Student* pS;
 
-	
 	/*pS = (Student*)&h;
 	pS->intro();*/
 	pH = &h;

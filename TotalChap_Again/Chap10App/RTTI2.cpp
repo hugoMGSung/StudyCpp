@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <typeinfo>
 
 class Parent
 {
@@ -20,7 +21,12 @@ public:
 void func(Parent* p)
 {
 	p->PrintMe();
-	((Child*)p)->PrintNum();
+	if (typeid(*p) == typeid(Child)) {
+		((Child*)p)->PrintNum();
+	}
+	else {
+		puts("이 객체는 num을 가지고 있지 않습니다.");
+	}
 }
 
 int main()

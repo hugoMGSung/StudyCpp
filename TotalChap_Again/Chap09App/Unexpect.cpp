@@ -10,7 +10,7 @@ void myunex()
 
 void calc() throw(int)
 {
-	throw "string";
+	throw -1; // "string";
 }
 
 int main()

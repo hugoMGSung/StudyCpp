@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Virtual_again04.cpp">
+    <ClCompile Include="MemCallMem2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

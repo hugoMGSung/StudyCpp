@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CoutRadix.cpp">
+    <ClCompile Include="CppFileWrite.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

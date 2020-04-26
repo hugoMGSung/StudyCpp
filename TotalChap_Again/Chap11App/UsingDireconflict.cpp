@@ -17,4 +17,7 @@ int main()
 	UTIL::value = 3;		// UTILÀÇ value
 
 	score = 1.2345;
+
+	printf("%d\n", value);
+	printf("%d\n", ::value);
 }

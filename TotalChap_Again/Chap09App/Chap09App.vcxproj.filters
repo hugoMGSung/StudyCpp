@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exretry.cpp">
+    <ClCompile Include="Unexpect.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
