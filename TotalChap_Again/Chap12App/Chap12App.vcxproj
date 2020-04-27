@@ -141,7 +141,7 @@
     <ClInclude Include="cursor.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CoutRadix.cpp" />
+    <ClCompile Include="CppFileWrite.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

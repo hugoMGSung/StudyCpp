@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RTTI.cpp">
+    <ClCompile Include="MemPtrInherit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
