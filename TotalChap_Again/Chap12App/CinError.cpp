@@ -9,6 +9,6 @@ int main()
 		cout << i << endl;
 	}
 	else {
-		cout << "실패" << endl;
+		cerr << "실패" << endl;
 	}
 }
