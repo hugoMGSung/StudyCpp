@@ -17,7 +17,7 @@ int main()
 	pi = &MyClass::i;
 	pi = &MyClass::j;
 	pd = &MyClass::d;
-	pd = &MyClass::i;
-	pi = &MyClass::d;
-	pi = &num;
+	//pd = &MyClass::i;
+	//pi = &MyClass::d;
+	//pi = &num;
 }

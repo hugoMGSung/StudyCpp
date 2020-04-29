@@ -14,6 +14,7 @@ int main()
 {
 	Time now;
 	int Time::* pi;
+	double Time::* pd;
 
 	pi = &Time::hour;
 	now.*pi = 12;
