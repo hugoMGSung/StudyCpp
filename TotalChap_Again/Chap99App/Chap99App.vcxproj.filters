@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="modern_cpp.cpp">
+    <ClCompile Include="modern_cpp_04.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
