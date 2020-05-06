@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cursor.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="GoStop2.cpp">
+    <ClCompile Include="modern_cpp_03.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

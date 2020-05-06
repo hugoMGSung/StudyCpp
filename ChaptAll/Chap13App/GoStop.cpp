@@ -4,7 +4,6 @@
 #include <assert.h>
 #include <iostream>
 #include "cursor.h"
-
 using namespace std;
 
 const int MaxCard = 48;
